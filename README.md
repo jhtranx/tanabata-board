@@ -1,3 +1,8 @@
+Hey! Do you want to make some wishes? 
+here's the deployed link: https://www.tanabata.ga
+
+-------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
