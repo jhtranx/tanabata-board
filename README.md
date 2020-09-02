@@ -1,4 +1,4 @@
-#tanabata-board
+# tanabata-board
 Hey! Do you want to make some wishes? 
 
 Here's the deployed link: https://www.tanabata.ga
